@@ -1,4 +1,3 @@
 def batch_badge_creator(names)
-badges = names.map { |name| name.Upcase!}
-return "Hello, My name is #{name}"
+return "Hello, My name is #{names}"
 end# Write your code here.
