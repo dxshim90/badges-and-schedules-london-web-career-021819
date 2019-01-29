@@ -7,3 +7,5 @@ def batch_badge_creator(array)
   array.each { |name| names.push("Hello, my name is #{name}.")}
   return names
 end
+
+def assign_rooms
