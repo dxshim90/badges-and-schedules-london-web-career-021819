@@ -4,7 +4,7 @@ end
 
 def batch_badge_creator(array)
   names = []
-  array.map { |name| name.Upcase}
+  array.map { |name| name.Upcase!}
   names.push(name)
   return names
 end
