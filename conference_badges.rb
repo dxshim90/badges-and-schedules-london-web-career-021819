@@ -1,4 +1,3 @@
-def badge_maker(name)
-return "Hello, My name is #{name}"
+def badge_maker(names)
+return "Hello, my name is #{name}"
 end
-
